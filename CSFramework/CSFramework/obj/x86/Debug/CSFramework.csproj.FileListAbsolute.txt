@@ -1,0 +1,34 @@
+C:\Users\terry\Documents\Visual Studio 2010\Projects\CSFramework\CSFramework\bin\Debug\CSFramework.exe
+C:\Users\terry\Documents\Visual Studio 2010\Projects\CSFramework\CSFramework\bin\Debug\CSFramework.pdb
+C:\Users\terry\Documents\Visual Studio 2010\Projects\CSFramework\CSFramework\obj\x86\Debug\CSFramework.fMain.resources
+C:\Users\terry\Documents\Visual Studio 2010\Projects\CSFramework\CSFramework\obj\x86\Debug\CSFramework.Properties.Resources.resources
+C:\Users\terry\Documents\Visual Studio 2010\Projects\CSFramework\CSFramework\obj\x86\Debug\CSFramework.UIPage.ucPermissionSetting.resources
+C:\Users\terry\Documents\Visual Studio 2010\Projects\CSFramework\CSFramework\obj\x86\Debug\CSFramework.UIPage.ucAccountSetting.resources
+C:\Users\terry\Documents\Visual Studio 2010\Projects\CSFramework\CSFramework\obj\x86\Debug\CSFramework.UIPage.ucQueryPage1.resources
+C:\Users\terry\Documents\Visual Studio 2010\Projects\CSFramework\CSFramework\obj\x86\Debug\CSFramework.UIPage.ucQueryPage2.resources
+C:\Users\terry\Documents\Visual Studio 2010\Projects\CSFramework\CSFramework\obj\x86\Debug\CSFramework.UIPage.ucReportDemo1.resources
+C:\Users\terry\Documents\Visual Studio 2010\Projects\CSFramework\CSFramework\obj\x86\Debug\CSFramework.UIPage.ucReportDemo2.resources
+C:\Users\terry\Documents\Visual Studio 2010\Projects\CSFramework\CSFramework\obj\x86\Debug\CSFramework.UIPage.ucReportPage1.resources
+C:\Users\terry\Documents\Visual Studio 2010\Projects\CSFramework\CSFramework\obj\x86\Debug\CSFramework.UIPage.ucSettingPage1.resources
+C:\Users\terry\Documents\Visual Studio 2010\Projects\CSFramework\CSFramework\obj\x86\Debug\CSFramework.csproj.GenerateResource.Cache
+C:\Users\terry\Documents\Visual Studio 2010\Projects\CSFramework\CSFramework\obj\x86\Debug\CSFramework.exe.licenses
+C:\Users\terry\Documents\Visual Studio 2010\Projects\CSFramework\CSFramework\obj\x86\Debug\CSFramework.exe
+C:\Users\terry\Documents\Visual Studio 2010\Projects\CSFramework\CSFramework\obj\x86\Debug\CSFramework.pdb
+C:\Users\terry\Documents\Visual Studio 2010\Projects\CSFramework\CSFramework\obj\x86\Debug\CSFramework.csprojResolveAssemblyReference.cache
+F:\私活\CSFramework\CSFramework\obj\x86\Debug\CSFramework.exe
+F:\私活\CSFramework\CSFramework\obj\x86\Debug\CSFramework.pdb
+F:\私活\CSFramework\CSFramework\bin\Debug\CSFramework.exe
+F:\私活\CSFramework\CSFramework\bin\Debug\CSFramework.pdb
+F:\私活\CSFramework\CSFramework\obj\x86\Debug\CSFramework.csprojResolveAssemblyReference.cache
+F:\私活\CSFramework\CSFramework\obj\x86\Debug\CSFramework.fMain.resources
+F:\私活\CSFramework\CSFramework\obj\x86\Debug\CSFramework.Properties.Resources.resources
+F:\私活\CSFramework\CSFramework\obj\x86\Debug\CSFramework.UIPage.ucPermissionSetting.resources
+F:\私活\CSFramework\CSFramework\obj\x86\Debug\CSFramework.UIPage.ucAccountSetting.resources
+F:\私活\CSFramework\CSFramework\obj\x86\Debug\CSFramework.UIPage.ucQueryPage1.resources
+F:\私活\CSFramework\CSFramework\obj\x86\Debug\CSFramework.UIPage.ucQueryPage2.resources
+F:\私活\CSFramework\CSFramework\obj\x86\Debug\CSFramework.UIPage.ucReportDemo1.resources
+F:\私活\CSFramework\CSFramework\obj\x86\Debug\CSFramework.UIPage.ucReportDemo2.resources
+F:\私活\CSFramework\CSFramework\obj\x86\Debug\CSFramework.UIPage.ucReportPage1.resources
+F:\私活\CSFramework\CSFramework\obj\x86\Debug\CSFramework.UIPage.ucSettingPage1.resources
+F:\私活\CSFramework\CSFramework\obj\x86\Debug\CSFramework.csproj.GenerateResource.Cache
+F:\私活\CSFramework\CSFramework\obj\x86\Debug\CSFramework.exe.licenses
